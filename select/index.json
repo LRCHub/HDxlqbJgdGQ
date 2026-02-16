@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "海と山椒魚",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2025-12-03T15:23:41.069875Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-16T07:59:44.166888Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,22 +43,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_海と山椒魚_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "海と山椒魚",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_海と山椒魚_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "海と山椒魚",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_03_海と山椒魚_米津玄師.txt"
     }
   ]
 }
