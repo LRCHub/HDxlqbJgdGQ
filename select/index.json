@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "海と山椒魚",
   "base_artist": "米津玄師",
-  "createdAt": "2026-02-16T07:59:44.166888Z",
+  "createdAt": "2026-03-16T15:28:25.418899Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,14 @@
       "artist": "Kenshi Yonezu [米津玄師]",
       "has_synced": true,
       "path": "select/04_Umi_to_Sanshouuo_[海と山椒魚]_Kenshi_Yonezu_[米津玄師].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海と山椒魚 - Umito Sanshouuo",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_海と山椒魚_-_Umito_Sanshouuo_Kenshi_Yonezu.lrc"
     },
     {
       "id": "petitlyrics_1",
